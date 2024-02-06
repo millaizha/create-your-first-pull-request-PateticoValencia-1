@@ -1,0 +1,19 @@
+As we embark on the journey of CMSC 100 - Web Programming, the anticipation for an immersive and enlightening learning experience is palpable. This course promises to be a gateway into the dynamic world of web development, offering a blend of theory and hands-on practice. Teaming up with my partner, Maybelle Patetico, adds a collaborative dimension to this endeavor, fostering the exchange of ideas and skills as we navigate the intricacies of web programming.
+
+Expectation 1: Foundation in Web Development Concepts
+One of the primary expectations from CMSC 100 is to build a solid foundation in web development concepts. This includes understanding the fundamental languages such as HTML, CSS, and JavaScript. As aspiring web developers, we anticipate grasping the principles behind creating visually appealing and functionally robust websites. The course should equip us with the knowledge to structure content, style layouts, and enhance user experience through dynamic scripting.
+
+Expectation 2: Hands-on Coding Experience
+A crucial aspect of any programming course is the hands-on coding experience. We look forward to extensive practical exercises and coding projects that will reinforce theoretical concepts. Practical application not only solidifies understanding but also hones problem-solving skills, an essential attribute for web developers. The expectation is that the course will provide a diverse set of projects, challenging us to apply our knowledge in real-world scenarios.
+
+Expectation 3: Collaborative Learning with Maybelle Patetico
+Partnering with Maybelle Patetico brings a collaborative spirit to CMSC 100. We anticipate a dynamic exchange of ideas, sharing of insights, and mutual support as we tackle assignments and projects together. Collaborative learning not only enhances our understanding of the subject matter but also mirrors the teamwork prevalent in the professional field. Our expectation is that working with Maybelle will not only enrich our learning experience but also foster a sense of camaraderie in overcoming challenges.
+
+Expectation 4: Exposure to Industry Tools and Best Practices
+In the ever-evolving field of web development, exposure to industry tools and best practices is crucial. We expect CMSC 100 to introduce us to popular development tools, version control systems, and coding standards. Learning these aspects will not only make us proficient developers but will also prepare us for the collaborative nature of web development projects in the professional realm.
+
+Expectation 5: Critical Thinking and Problem Solving
+Web programming is not just about writing code; it's about solving problems efficiently. We expect CMSC 100 to cultivate our critical thinking skills by presenting challenging scenarios that require thoughtful solutions. Through debugging exercises and complex coding challenges, we aim to develop the ability to analyze problems systematically and derive innovative solutions, a skill set indispensable in the field of web development.
+
+Conclusion:
+In conclusion, our expectations for CMSC 100 - Web Programming are centered around building a strong foundation in web development, gaining practical coding experience, fostering collaborative learning with Maybelle Patetico, acquiring exposure to industry tools, and honing critical thinking and problem-solving skills. As we embark on this educational journey, we anticipate that these expectations will be met, providing us with the skills and knowledge necessary for a successful and fulfilling career in web development.
