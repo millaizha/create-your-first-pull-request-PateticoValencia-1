@@ -17,3 +17,5 @@ Web programming is not just about writing code; it's about solving problems effi
 
 Conclusion:
 In conclusion, our expectations for CMSC 100 - Web Programming are centered around building a strong foundation in web development, gaining practical coding experience, fostering collaborative learning with Maybelle Patetico, acquiring exposure to industry tools, and honing critical thinking and problem-solving skills. As we embark on this educational journey, we anticipate that these expectations will be met, providing us with the skills and knowledge necessary for a successful and fulfilling career in web development.
+
+I agree. 
